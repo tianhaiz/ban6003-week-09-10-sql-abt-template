@@ -12,6 +12,21 @@ Complete:
 
 `module9_neon_sql_fundamentals_guided_lab.ipynb`
 
+## GitHub Repository and Running Environment
+
+Start from this public template repository:
+
+https://github.com/tianhaiz/ban6003-week-09-10-sql-abt-template
+
+Create your own GitHub repository from the template with **Use this template > Create a new repository**. I recommend making your repository public so the instructor can inspect your submission. If you use a private repository, invite the instructor GitHub account `zzz1990771` or the email `zzz1990771@gmail.com` as a collaborator.
+
+You may run the lab in either environment:
+
+- **Recommended for beginners:** GitHub Codespaces from your own repository.
+- **Local option:** clone your own repository, activate the `ban6003` conda environment, install `requirements.txt`, and run JupyterLab locally.
+
+Submit your GitHub repository link or a completed ZIP through Canvas.
+
 ## Required Setup
 
 The assignment repository includes a readonly course database connection in `.env.example`. In the notebook, run the setup cell under **Create your local `.env` file from the provided template**. It copies:
@@ -22,17 +37,6 @@ The assignment repository includes a readonly course database connection in `.en
 
 Do not commit `.env` to GitHub. The repository is already configured to ignore it.
 
-## GitHub Classroom Assignment Link
-
-Canvas will provide the GitHub Classroom invitation link for this Module 9-10 assignment package:
-
-**GitHub Classroom invitation link:** [to be added]
-
-Click the invitation link, sign in to GitHub, and accept the assignment. If this is your first GitHub Classroom assignment for the course, GitHub may ask you to authorize GitHub Classroom and match your GitHub account to the course roster. Choose your own name or identifier carefully.
-
-After you accept, wait for GitHub Classroom to create your personal assignment repository. Open the repository link shown on the confirmation page. If you see a repository access message, check the GitHub notifications inbox in the upper-right corner of GitHub, or go to `https://github.com/notifications`, and accept any pending repository or organization invitation from GitHub Classroom. You may also receive an email from GitHub with the same invitation.
-
-Once you can see your personal assignment repository, open it in Codespaces with **Code > Codespaces > Create codespace on main**.
 
 ## What You Will Practice
 
@@ -40,13 +44,13 @@ You will practice connecting to Neon, listing tables, using `SELECT`, `WHERE`, `
 
 ## Recommended Workflow
 
-1. Open the notebook in GitHub Codespaces.
+1. Open the notebook in Codespaces or local Jupyter.
 2. Run the setup cell that creates `.env`.
 3. Run the package import and connection cells.
 4. Work through each SQL section.
 5. Complete all Your Turn tasks.
 6. Complete the final practice query and reflection.
-7. Save, commit, and push your work.
+7. Save your work, then commit and push if using GitHub.
 
 ## Minimum Completion Checklist
 
