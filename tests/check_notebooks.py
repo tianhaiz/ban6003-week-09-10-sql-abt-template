@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lightweight GitHub Classroom notebook checks for BAN 6003.
+"""Lightweight local notebook checks for BAN 6003.
 
 This checker intentionally grades completion and reproducibility, not analytical quality.
 It verifies that required notebooks/files exist, notebooks can execute when possible,
