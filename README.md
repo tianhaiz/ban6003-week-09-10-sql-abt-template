@@ -28,14 +28,14 @@ If your instructor provides an updated readonly connection string, paste it into
 
 ## How to Work
 
-1. Create your own GitHub repository from this template, or download the ZIP from Canvas.
-2. Choose a working environment: local Jupyter/conda or your own GitHub Codespace.
+1. Create your own GitHub repository from this template.
+2. Use GitHub Codespaces as the main working environment. If you are technically experienced, you may use local Jupyter/conda instead.
 3. Install dependencies with `python -m pip install -r requirements.txt` if working locally.
 4. Open the notebooks in the order listed above.
 5. Run cells from top to bottom.
 6. Complete all `Your Turn`, exercise, checkpoint, and reflection sections.
 7. Save your notebooks and required outputs.
-8. Submit your GitHub repository link or completed ZIP through Canvas.
+8. Submit your GitHub repository link through Canvas.
 
 ## Completion Check
 
@@ -50,7 +50,7 @@ This assignment uses Neon/Postgres. Create a `.env` file locally or in Codespace
 
 ## Submit
 
-Submit through Canvas before the deadline. You may submit a GitHub repository link or a completed ZIP, depending on the Canvas instructions. If your GitHub repository is private, invite the instructor account `zzz1990771` or `zzz1990771@gmail.com` before submitting the link.
+Submit your GitHub repository link through Canvas before the deadline. Your repository should be public. If your GitHub repository is private, invite the instructor account `zzz1990771` or `zzz1990771@gmail.com` before submitting the link.
 
 If you are using GitHub, a typical commit workflow is:
 

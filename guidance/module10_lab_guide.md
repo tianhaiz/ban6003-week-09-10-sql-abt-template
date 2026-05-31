@@ -20,7 +20,7 @@ This module is part of the Module 9-10 package. Use the same repository you crea
 
 https://github.com/tianhaiz/ban6003-week-09-10-sql-abt-template
 
-Continue working in your own repository, not the instructor template. You may use Codespaces or your local conda/Jupyter environment. Make sure your repository is public, or invite `zzz1990771` / `zzz1990771@gmail.com` if it is private. Submit your GitHub repository link or completed files through Canvas.
+Continue working in your own repository, not the instructor template. Use Codespaces as the main path, or use your local conda/Jupyter environment if you are comfortable managing it. Make sure your repository is public, or invite `zzz1990771` / `zzz1990771@gmail.com` if it is private. Submit your GitHub repository link through Canvas.
 
 ## Required Setup
 
@@ -33,7 +33,7 @@ You will practice `INNER JOIN`, `LEFT JOIN`, joining the same lookup table more 
 
 ## Recommended Workflow
 
-1. Open the notebook in Codespaces or local Jupyter.
+1. Open the notebook in Codespaces, or in local Jupyter if you are using the optional local path.
 2. Run or confirm the `.env` setup cell.
 3. Run the connection setup cells.
 4. Complete the SQL join examples.

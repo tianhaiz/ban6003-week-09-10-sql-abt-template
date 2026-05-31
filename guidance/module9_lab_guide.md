@@ -22,10 +22,10 @@ Create your own GitHub repository from the template with **Use this template > C
 
 You may run the lab in either environment:
 
-- **Recommended for beginners:** GitHub Codespaces from your own repository.
-- **Local option:** clone your own repository, activate the `ban6003` conda environment, install `requirements.txt`, and run JupyterLab locally.
+- **Main path, recommended for beginners:** GitHub Codespaces from your own repository.
+- **Optional path for technically experienced students:** clone your own repository, activate the `ban6003` conda environment, install `requirements.txt`, and run JupyterLab locally.
 
-Submit your GitHub repository link or a completed ZIP through Canvas.
+Submit your GitHub repository link through Canvas.
 
 ## Required Setup
 
@@ -44,7 +44,7 @@ You will practice connecting to Neon, listing tables, using `SELECT`, `WHERE`, `
 
 ## Recommended Workflow
 
-1. Open the notebook in Codespaces or local Jupyter.
+1. Open the notebook in Codespaces, or in local Jupyter if you are using the optional local path.
 2. Run the setup cell that creates `.env`.
 3. Run the package import and connection cells.
 4. Work through each SQL section.
