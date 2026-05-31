@@ -1,0 +1,19 @@
+{
+  "notebooks": [
+    "notebooks/module9_neon_sql_fundamentals_guided_lab.ipynb",
+    "notebooks/module10_sql_joins_abt_guided_lab.ipynb"
+  ],
+  "required_files": [],
+  "forbidden_files": [
+    ".env"
+  ],
+  "execute_notebooks": true,
+  "requires_database": true,
+  "execution_timeout_seconds": 900,
+  "require_marked_code_outputs": true,
+  "check_markdown_placeholders": true,
+  "min_marked_code_cells": {
+    "notebooks/module9_neon_sql_fundamentals_guided_lab.ipynb": 7,
+    "notebooks/module10_sql_joins_abt_guided_lab.ipynb": 4
+  }
+}
