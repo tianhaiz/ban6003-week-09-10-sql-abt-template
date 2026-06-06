@@ -33,7 +33,7 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 ## How to Work
 
 1. Create your own GitHub repository from this template.
-2. Use GitHub Codespaces as the main working environment. If you are technically experienced, you may use local Jupyter/conda instead.
+2. Use GitHub Codespaces as the main working environment. If you are technically experienced, you may use local conda + VS Code instead.
 3. Install dependencies with `python -m pip install -r requirements.txt` if working locally.
 4. Open the notebooks in the order listed above.
 5. Run cells from top to bottom.
