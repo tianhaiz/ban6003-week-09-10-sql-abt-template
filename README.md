@@ -36,6 +36,7 @@ Expected outputs:
 - `data/processed/jfk_destination_reliability_module9.csv`
 - `data/processed/preliminary_abt_module10.csv`
 - `data/processed/route_month_abt_module10.csv`
+- `data/processed/carrier_month_abt_module10.csv` (DuckDB practice file)
 
 ## How to Work
 
