@@ -24,6 +24,12 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 
 Module 10 also introduces DuckDB, which runs SQL on your own data (Pandas DataFrames and CSV files) without a database server.
 
+## Project SQL Guide (Not Graded)
+
+- `notebooks/module10_part2_project_sql_options.ipynb`
+
+The project requires at least one SQL query on your own project data. This notebook shows the two paths: **Path A**, your own free Neon database (upload your tables and query them), and **Path B**, DuckDB on your DataFrames and CSV files. Cells marked `# COPY` can be copied into your project notebook.
+
 ## Data and Outputs
 
 - No local data files are required.
@@ -51,11 +57,10 @@ Expected outputs:
 
 ## Database Note
 
-This assignment uses Neon/Postgres. Use this variable name in `.env`:
+This assignment uses Neon/Postgres. Use these variable names in `.env`:
 
 - `DATABASE_URL`: the course read-only database. Paste the connection string from the Canvas page "Module 9 Database Connection".
-
-For your project you will use DuckDB (introduced in Module 10). You may also use your own Neon database, but the course does not provide a guide for it.
+- `PROJECT_DATABASE_URL`: only if you choose Path A for your project. Your own Neon database. See `notebooks/module10_part2_project_sql_options.ipynb`.
 
 `.env` stays on your computer or in your Codespace. It is not saved to GitHub. If you open a new Codespace or clone the repository again, the notebook creates an empty `.env` again; paste the string again. Do not commit `.env`.
 
