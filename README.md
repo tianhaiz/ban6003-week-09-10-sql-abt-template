@@ -22,7 +22,7 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 - `notebooks/module9_neon_sql_fundamentals_guided_lab.ipynb`
 - `notebooks/module10_sql_joins_abt_guided_lab.ipynb`
 
-Module 10 also introduces DuckDB, which runs SQL on your own data (Pandas DataFrames and CSV files) without a database server.
+The Module 10 Part 2 notebook below introduces DuckDB, which runs SQL on your own data (Pandas DataFrames and CSV files) without a database server.
 
 ## Project SQL Guide (Not Graded)
 
@@ -42,7 +42,6 @@ Expected outputs:
 - `data/processed/jfk_destination_reliability_module9.csv`
 - `data/processed/preliminary_abt_module10.csv`
 - `data/processed/route_month_abt_module10.csv`
-- `data/processed/carrier_month_abt_module10.csv` (DuckDB practice file)
 
 ## How to Work
 
